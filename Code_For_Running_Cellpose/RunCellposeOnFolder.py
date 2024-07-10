@@ -10,11 +10,11 @@ print(f'>>> GPU activated? {yn[use_GPU]}')
 
 # model name and path
 
-#Custom model path (full path):
+#Custom model path, needs to include model file:
 
 model_path = "C:\\Users\\Admin\\.cellpose\\models\\Model" #@param {type:"string"}
 
-#Path to images:
+#Path to image folder:
 
 dir = "C:\\Users\\Admin\\Fluorscent_Images" #@param {type:"string"}
 

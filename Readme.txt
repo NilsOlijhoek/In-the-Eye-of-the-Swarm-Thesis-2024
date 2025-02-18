@@ -1,1 +1,0 @@
-Synthetic Datasets were created using the script in this folder. Output data of Neutrophils that were static, moving towards or away from macrophages was then analysed with code found in the Python_Scripts_For_Heatmaps folder. 
